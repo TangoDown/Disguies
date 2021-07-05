@@ -4,8 +4,7 @@ This is a Disguies Swep for Garry's Mod Dark RP
 
 
 
-To install create a folder path 
-Then download and put the disguies folder in your addons
+To install download and put the disguies folder in your addons
 
 
 
