@@ -5,8 +5,7 @@ This is a Disguies Swep for Garry's Mod Dark RP
 
 
 To install create a folder path 
-/garrysmod/addons/disguise/lua/weapons/weapon_agent/ 
-Then download and put the shared.lua in that folder
+Then download and put the disguies folder in your addons
 
 
 
