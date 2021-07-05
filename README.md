@@ -26,8 +26,8 @@ Remember to put a , at the end of every line (copy and paste works best and fill
 
 There are 2 console commands
 
-# Change the amount of time the disugies last (Default 60 seconds)
+###### Change the amount of time the disugies last (Default 60 seconds)
 disguise_swep_time
 
-# How long the player is frozen while changing player model (Default 5 seconds)
+###### How long the player is frozen while changing player model (Default 5 seconds)
 disguise_freeze_time
